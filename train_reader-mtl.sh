@@ -1,0 +1,13 @@
+python train_reader_mtl.py \
+        --train_data /projects/tir6/general/surajt/mQA/MIA-Shared-Task-2022/retrieval_output/mtl_data_xx_en.json \
+        --eval_data /projects/tir6/general/surajt/mQA/MIA-Shared-Task-2022/retrieval_output/mia_shared_xorqa_development_dpr_reranked_results_50.json \
+        --model_size base \
+        --per_gpu_batch_size 1 \
+        --accumulation_steps 16 \
+        --n_context 20 \
+        --name dpr_retrieval_mia_mtl \
+        --checkpoint_dir checkpoint \
+        --total_steps 100000 \
+        --eval_freq 15000 \
+        --save_freq 15000 \
+        --checkpoint_dir /projects/tir6/general/surajt/mQA/FiD/checkpoint \

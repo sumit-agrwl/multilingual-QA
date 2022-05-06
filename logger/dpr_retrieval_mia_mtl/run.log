@@ -1,0 +1,34 @@
+[05/03/2022 18:33:00] {train_reader_mtl.py:235} INFO - Start training
+[05/03/2022 18:33:00] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 18:35:12] {train_reader_mtl.py:235} INFO - Start training
+[05/03/2022 18:35:12] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 18:36:42] {train_reader_mtl.py:235} INFO - Start training
+[05/03/2022 18:36:42] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 18:38:11] {train_reader_mtl.py:235} INFO - Start training
+[05/03/2022 18:38:11] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 18:39:41] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 18:39:41] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 18:47:48] {train_reader_mtl.py:237} INFO - Start training
+[05/03/2022 18:47:48] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 18:53:14] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 18:53:14] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 18:57:27] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 18:57:27] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 20:12:16] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 20:12:16] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 21:57:54] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 21:57:54] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 22:01:34] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 22:01:34] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 22:19:18] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 22:19:18] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/03/2022 22:27:56] {train_reader_mtl.py:236} INFO - Start training
+[05/03/2022 22:27:56] {train_reader_mtl.py:31} WARNING - Tensorboard is not available.
+[05/04/2022 00:24:40] {train_reader_mtl.py:108} INFO - 15000 / 100000 |train: 7.774 |evaluation: 13.45 EM |lr: 0.00010
+[05/04/2022 02:22:26] {train_reader_mtl.py:108} INFO - 30000 / 100000 |train: 5.136 |evaluation: 14.29 EM |lr: 0.00010
+[05/04/2022 04:17:34] {train_reader_mtl.py:108} INFO - 45000 / 100000 |train: 4.419 |evaluation: 11.36 EM |lr: 0.00010
+[05/04/2022 06:15:33] {train_reader_mtl.py:108} INFO - 60000 / 100000 |train: 3.766 |evaluation: 14.63 EM |lr: 0.00010
+[05/04/2022 08:12:47] {train_reader_mtl.py:108} INFO - 75000 / 100000 |train: 3.237 |evaluation: 12.68 EM |lr: 0.00010
+[05/04/2022 10:13:29] {train_reader_mtl.py:108} INFO - 90000 / 100000 |train: 2.870 |evaluation: 13.84 EM |lr: 0.00010
+[05/04/2022 11:25:36] {train_reader_mtl.py:167} INFO - Logging to output-dpr_retrieval_mia_mtl.json
+[05/04/2022 11:25:36] {train_reader_mtl.py:170} INFO - Best dev EM : 0.1462761207358457

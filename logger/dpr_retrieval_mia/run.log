@@ -1,0 +1,19 @@
+[04/18/2022 10:37:31] {train_reader.py:214} INFO - Start training
+[04/18/2022 10:37:31] {train_reader.py:31} WARNING - Tensorboard is not available.
+[04/18/2022 13:58:04] {train_reader.py:214} INFO - Start training
+[04/18/2022 13:58:04] {train_reader.py:31} WARNING - Tensorboard is not available. (old)
+[04/18/2022 16:57:20] {train_reader.py:86} INFO - 25000 / 150000 |train: 2.488 |evaluation: 31.24EM |lr: 0.00010
+[04/18/2022 18:41:11] {train_reader.py:214} INFO - Start training
+[04/18/2022 18:41:11] {train_reader.py:31} WARNING - Tensorboard is not available.
+[04/18/2022 18:44:53] {train_reader.py:214} INFO - Start training
+[04/18/2022 18:44:53] {train_reader.py:31} WARNING - Tensorboard is not available.
+[04/18/2022 19:16:24] {train_reader.py:214} INFO - Start training
+[04/18/2022 19:16:24] {train_reader.py:31} WARNING - Tensorboard is not available.
+[04/18/2022 21:50:03] {train_reader.py:86} INFO - 25000 / 150000 |train: 2.476 |evaluation: 31.49EM |lr: 0.00010
+[04/19/2022 00:25:50] {train_reader.py:86} INFO - 50000 / 150000 |train: 1.819 |evaluation: 33.33EM |lr: 0.00010
+[04/19/2022 02:59:43] {train_reader.py:86} INFO - 75000 / 150000 |train: 1.678 |evaluation: 33.99EM |lr: 0.00010
+[04/19/2022 05:33:09] {train_reader.py:86} INFO - 100000 / 150000 |train: 1.510 |evaluation: 34.65EM |lr: 0.00010
+[04/19/2022 08:05:52] {train_reader.py:86} INFO - 125000 / 150000 |train: 1.482 |evaluation: 34.42EM |lr: 0.00010
+[04/19/2022 10:38:41] {train_reader.py:86} INFO - 150000 / 150000 |train: 1.404 |evaluation: 33.74EM |lr: 0.00010
+[04/19/2022 10:39:20] {train_reader.py:145} INFO - Logging to output-dpr_retrieval_mia.json
+[04/19/2022 10:39:21] {train_reader.py:148} INFO - Best dev EM : 0.34649044472227186

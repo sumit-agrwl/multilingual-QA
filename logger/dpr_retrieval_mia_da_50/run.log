@@ -1,0 +1,5 @@
+[05/02/2022 15:10:43] {train_reader.py:214} INFO - Start training
+[05/02/2022 15:10:43] {train_reader.py:31} WARNING - Tensorboard is not available.
+[05/02/2022 21:21:54] {train_reader.py:86} INFO - 50000 / 800000 |train: 2.393 |evaluation: 29.09 EM |lr: 0.00010
+[05/03/2022 03:32:17] {train_reader.py:86} INFO - 100000 / 800000 |train: 1.680 |evaluation: 30.59 EM |lr: 0.00010
+[05/03/2022 09:37:10] {train_reader.py:86} INFO - 150000 / 800000 |train: 1.547 |evaluation: 30.22 EM |lr: 0.00010

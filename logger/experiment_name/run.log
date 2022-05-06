@@ -1,0 +1,5 @@
+[05/04/2022 12:08:19] {util.py:75} INFO - Loading /projects/tir6/general/surajt/mQA/FiD/checkpoint/dpr_retrieval_mia_mtl/checkpoint/best_dev
+[05/04/2022 12:09:11] {util.py:78} INFO - loading checkpoint /projects/tir6/general/surajt/mQA/FiD/checkpoint/dpr_retrieval_mia_mtl/checkpoint/best_dev/optimizer.pth.tar
+[05/04/2022 12:09:46] {train_reader.py:212} INFO - Model loaded from /projects/tir6/general/surajt/mQA/FiD/checkpoint/dpr_retrieval_mia_mtl/checkpoint/best_dev
+[05/04/2022 12:09:46] {train_reader.py:216} INFO - Start training
+[05/04/2022 12:09:46] {train_reader.py:31} WARNING - Tensorboard is not available.
